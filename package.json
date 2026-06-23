@@ -14,5 +14,8 @@
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "^4.2.5"
+  },
+  "overrides": {
+    "undici": "~7.28.0"
   }
 }
